@@ -24,6 +24,8 @@ Overall, React Server Components represent a significant step forward in the evo
 
 ### Example
 
+#### server.js
+
 ```jsx
 // server.js
 import { createServer } from "http";
@@ -43,6 +45,8 @@ const server = createServer((req, res) => {
 
 server.listen(3000);
 ```
+
+#### App.server.jsx
 
 ```jsx
 // App.server.jsx
