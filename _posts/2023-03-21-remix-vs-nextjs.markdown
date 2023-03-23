@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Remix vs Next.Js
-date: 2023-03-18 13:32:20 +0300
+date: 2023-03-21 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: remix.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
