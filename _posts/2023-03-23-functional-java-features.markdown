@@ -5,7 +5,7 @@ date: 2023-03-23 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: java.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [jva]
+tags: [java, streams, functional-programming]
 ---
 
 Java Streams are a powerful feature introduced in Java 8 that allows you to perform complex operations on collections of objects. Streams provide a way to manipulate and process data in a functional style, using a fluent and concise syntax. In this post, we'll explore what Java Streams are, how they work, and some code examples to help you get started.
