@@ -115,3 +115,4 @@ In this example, the parallelStream() method is used to create a parallel Stream
 #### Conclusion
 
 Java Streams provide a powerful and flexible way to process collections of objects in a functional style. Streams allow you to express complex operations using a fluent and concise syntax, and provide lazy evaluation and parallel processing for improved performance. With the examples provided in this post, you should now have a good understanding of what Java Streams are and how to use them in your code.
+In summary, Java methods are an essential part of programming in Java. They allow for code to be encapsulated, reused, and maintained more easily, and they provide a way to perform specific tasks in a program. By understanding how to create and use methods, you can write more efficient and effective Java code.
